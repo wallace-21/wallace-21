@@ -7,7 +7,7 @@ Hii👋 Devs, I'm <a href="https://www.linkedin.com/in/wallace-lazaro-21w/" targ
 </h3>
 
 <h2 align="center">
-A Full-Stack Dev & UI/UX Designer!
+A Full-Stack Dev
 </h2>
 
 <!DOCTYPE html>
