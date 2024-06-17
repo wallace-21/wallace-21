@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://Its-sb.netlify.app" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="my banner"></a>
+  <a href="https://Its-sb.netlify.app" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1aVkDcPx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/a2w3y0ttoysnodawoo2e.png"></a>
 </p>
 
 <h3 align="center">
