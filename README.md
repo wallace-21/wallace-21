@@ -1,42 +1,15 @@
+<p align="center">
+  <a href="https://Its-sb.netlify.app" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="my banner"></a>
+</p>
+
+<h3 align="center">
+Hii👋 Devs, I'm <a href="https://its-sb.netlify.app" target="_blank" rel="noreferrer">Shiva</a> 
+</h3>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wallace's GitHub Overview</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            padding: 20px;
-            background: #fff;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        .header, .skills, .projects, .contact {
-            margin-bottom: 20px;
-        }
-        .projects ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        .projects li {
-            background: #f4f4f4;
-            margin: 10px 0;
-            padding: 10px;
-            border-left: 5px solid #007BFF;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
