@@ -25,7 +25,7 @@ A Full-Stack Dev
         <div class="skills">
             <h2>Skills</h2>
             <ul>
-                <a href="https://www.linkedin.com/in/wallace-lazaro-21w/" target="_blank" rel="noreferrer">Wallace</a>
+                Programming Language <a href="https://img.icons8.com/?size=48&id=shQTXiDQiQVR&format=png" target="_blank" rel="noreferrer">Wallace</a>
                 <li>Web Development: HTML, CSS, React</li>
                 <li>Tools: Git, Docker, Jenkins</li>
                 <li>Databases: MySQL, MongoDB</li>
