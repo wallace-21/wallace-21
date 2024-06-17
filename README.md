@@ -25,7 +25,7 @@ A Full-Stack Dev
         <div class="skills">
             <h2>Skills</h2>
             <ul>
-                <li>Programming Languages: JavaScript, Python, Java</li>
+                <a href="https://www.linkedin.com/in/wallace-lazaro-21w/" target="_blank" rel="noreferrer">Wallace</a>
                 <li>Web Development: HTML, CSS, React</li>
                 <li>Tools: Git, Docker, Jenkins</li>
                 <li>Databases: MySQL, MongoDB</li>
