@@ -5,6 +5,11 @@
 <h3 align="center">
 Hii👋 Devs, I'm <a href="https://www.linkedin.com/in/wallace-lazaro-21w/" target="_blank" rel="noreferrer">Wallace</a> 
 </h3>
+
+<h2 align="center">
+A Full-Stack Dev & UI/UX Designer!
+</h2>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
