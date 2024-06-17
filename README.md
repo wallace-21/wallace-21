@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hii👋 Devs, I'm <a href="https://www.linkedin.com/in/wallace-lazaro-21w/" target="_blank" rel="noreferrer">wallace</a> 
+Hii👋 Devs, I'm <a href="https://www.linkedin.com/in/wallace-lazaro-21w/" target="_blank" rel="noreferrer">Wallace</a> 
 </h3>
 <!DOCTYPE html>
 <html lang="en">
