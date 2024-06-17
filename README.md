@@ -25,9 +25,9 @@ A Full-Stack Dev
         <div class="skills">
             <h2>Skills</h2>
             <ul>
-                <li> Programming Language: HTML, CSS, React</li>
-                <li>Web Development: HTML, CSS, React</li>
-                <li>Tools: Git, Docker, Jenkins</li>
+                <li> Programming Language: C, Python, JavaScript</li>
+                <li>Web Development: HTML5, CSS,</li>
+                <li>Tools: Git, Docker, Vim</li>
                 <li>Databases: MySQL, MongoDB</li>
             </ul>
         </div>
