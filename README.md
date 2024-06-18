@@ -31,25 +31,9 @@ A Full-Stack Dev
                 <li>Databases: MySQL, MongoDB</li>
             </ul>
         </div>
-        <div class="projects">
-            <h2>Projects</h2>
-            <ul>
-                <li>
-                    <h3>Project 1: Web Application</h3>
-                    <p>Description: Developed a full-stack web application using React and Node.js.</p>
-                    <p><a href="https://github.com/yourusername/project1">GitHub Repository</a></p>
-                </li>
-                <li>
-                    <h3>Project 2: Machine Learning Model</h3>
-                    <p>Description: Created a machine learning model to predict housing prices using Python and Scikit-learn.</p>
-                    <p><a href="https://github.com/yourusername/project2">GitHub Repository</a></p>
-                </li>
-                <!-- Add more projects as needed -->
-            </ul>
-        </div>
         <div class="contact">
             <h2>Contact</h2>
-            <p>Feel free to reach out to me via <a href="mailto:your.email@example.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+            <p>Feel free to reach out to me via <a href="exnesswallace@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/wallace-lazaro-21w/">LinkedIn</a>.</p>
         </div>
     </div>
 </body>
