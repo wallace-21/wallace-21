@@ -33,7 +33,7 @@ A Full-Stack Dev
         </div>
         <div class="contact">
             <h2>Contact</h2>
-            <p>Feel free to reach out to me via <a href="exnesswallace@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/wallace-lazaro-21w/">LinkedIn</a>.</p>
+            <p>Feel free to reach out to me via <a href="exnesswallace@gmail.com">email
         </div>
     </div>
 </body>
